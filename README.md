@@ -1,8 +1,8 @@
-# 📱 Social Platform  
-A modern web-based platform designed to connect people, enabling seamless interaction and sharing of multimedia content.
+# 📱 Social E-Commerce Platform
+A modern web-based e-commerce platform designed to connect users, allowing seamless shopping and social interaction around products.
 
 ## 🚀 About  
-Social Platform is a full-stack application that facilitates online social interaction. It allows users to create posts with images or videos, authenticate via multiple platforms (Google, GitHub), and manage their profiles with ease. Built with a microservices architecture, this project ensures scalability and maintainability for future enhancements.
+This platform is a full-stack application that combines online shopping with social features. Users can browse and purchase products, create posts or reviews with images or videos, interact with other users, and manage their profiles with ease. Built with a microservices architecture, it ensures scalability and maintainability for future enhancements.
 
 ## ✨ Features  
 - User authentication with password and multi-platform OAuth 2.0 (Google, GitHub)
